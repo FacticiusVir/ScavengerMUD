@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keeper.Prolog.SwishApi", "Keeper.Prolog.SwishApi\Keeper.Prolog.SwishApi.csproj", "{BEAB272F-E588-4BCD-8B5E-5BF6B498AEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keeper.ScavengerMud.TestHarness", "Keeper.ScavengerMud.TestHarness\Keeper.ScavengerMud.TestHarness.csproj", "{C34542E4-452B-4CC9-B2B6-B2374AFD16E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keeper.ScavengerMud", "Keeper.ScavengerMud\Keeper.ScavengerMud.csproj", "{34982355-7365-4CF3-B4BD-DFC17AED6605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAB272F-E588-4BCD-8B5E-5BF6B498AEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAB272F-E588-4BCD-8B5E-5BF6B498AEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAB272F-E588-4BCD-8B5E-5BF6B498AEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAB272F-E588-4BCD-8B5E-5BF6B498AEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34542E4-452B-4CC9-B2B6-B2374AFD16E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34542E4-452B-4CC9-B2B6-B2374AFD16E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34542E4-452B-4CC9-B2B6-B2374AFD16E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34542E4-452B-4CC9-B2B6-B2374AFD16E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34982355-7365-4CF3-B4BD-DFC17AED6605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34982355-7365-4CF3-B4BD-DFC17AED6605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34982355-7365-4CF3-B4BD-DFC17AED6605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34982355-7365-4CF3-B4BD-DFC17AED6605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
